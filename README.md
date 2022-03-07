@@ -7,7 +7,7 @@ This is a simple card user interface design based on Web. It is a very simple an
 
 
 ## What Have I Done:
-I've made this login form using HTML and CSS. I've created nice hover effects with text for make the card better.
+I've made this card user interface design using HTML and CSS. I've created nice hover effects with text for make the card better.
 
 
 ## Required Skills:
